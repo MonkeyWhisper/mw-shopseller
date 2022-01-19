@@ -6,7 +6,7 @@
 
 * You can change the location of the ped on client.lua.
 
-* You can add more items on the Config and server.lua (I'll make an update later so you only have to add it on the Config)
+* You can add more items on the Config.
 
 # Dependencies
 * qb-target by Berkie - https://github.com/BerkieBb/qb-target
