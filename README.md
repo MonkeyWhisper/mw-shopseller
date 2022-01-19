@@ -4,7 +4,7 @@
 
 * You can make it for any job or you can remove that altogether allowing anyone to sell to the ped.
 
-* You can change the location of the ped on client.lua.
+* You can change the location of the ped on client.lua (make sure to create a new zone and spawn a ped)
 
 * You can add more items on the Config.
 
