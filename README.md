@@ -10,3 +10,7 @@
 
 # Dependencies
 * qb-target by Berkie - https://github.com/BerkieBb/qb-target
+
+# OPTIONAL
+
+* By default it uses this pawnshop MLO - https://k4mb1.tebex.io/package/4672248
