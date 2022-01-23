@@ -14,3 +14,4 @@
 # OPTIONAL
 
 * By default it uses this pawnshop MLO - https://k4mb1.tebex.io/package/4672248
+* If you want to spawn the ped in - https://github.com/MiddleSkillz/ms-peds
